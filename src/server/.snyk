@@ -6,3 +6,6 @@ patch:
   SNYK-JS-LODASH-567746:
     - '@nestjs/core > @nuxtjs/opencollective > consola > lodash':
         patched: '2020-11-25T10:25:19.632Z'
+  SNYK-JS-LODASH-450202:
+    - '@nestjs/core > @nuxtjs/opencollective > consola > lodash':
+        patched: '2020-11-25T10:36:05.965Z'
