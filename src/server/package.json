@@ -28,7 +28,7 @@
     "@nestjs/microservices": "^5.4.0",
     "@nestjs/testing": "^5.4.0",
     "@nestjs/typeorm": "^5.2.2",
-    "@nestjs/websockets": "^5.4.0",
+    "@nestjs/websockets": "^6.0.0",
     "class-transformer": "^0.3.1",
     "class-validator": "^0.9.1",
     "dotenv": "^6.2.0",
