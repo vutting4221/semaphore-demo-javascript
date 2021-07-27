@@ -38,7 +38,7 @@
     "rimraf": "^2.6.3",
     "rxjs": "^6.3.3",
     "typeorm": "^0.2.27",
-    "snyk": "^1.431.1"
+    "snyk": "^1.667.0"
   },
   "devDependencies": {
     "@types/express": "^4.16.0",
