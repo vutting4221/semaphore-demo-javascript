@@ -37,7 +37,7 @@
     "reselect": "^4.0.0",
     "typesafe-actions": "^3.0.0",
     "yup": "^0.28.2",
-    "snyk": "^1.436.0"
+    "@snyk/protect": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -50,7 +50,7 @@
     "cypress:run": "cypress run",
     "test:e2e": "start-server-and-test start:ci http://localhost:3030 cypress:run",
     "deploy": "gh-pages -d build",
-    "snyk-protect": "snyk protect",
+    "snyk-protect": "snyk-protect",
     "prepare": "npm run snyk-protect"
   },
   "eslintConfig": {
