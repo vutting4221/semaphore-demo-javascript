@@ -23,12 +23,12 @@
     "prepare": "npm run snyk-protect"
   },
   "dependencies": {
-    "@nestjs/common": "^6.3.0",
-    "@nestjs/core": "^5.4.0",
+    "@nestjs/common": "^7.5.0",
+    "@nestjs/core": "^7.5.5",
     "@nestjs/microservices": "^5.4.0",
     "@nestjs/testing": "^5.4.0",
     "@nestjs/typeorm": "^5.2.2",
-    "@nestjs/websockets": "^5.4.0",
+    "@nestjs/websockets": "^6.0.0",
     "class-transformer": "^0.3.1",
     "class-validator": "^0.9.1",
     "dotenv": "^6.2.0",
@@ -37,7 +37,7 @@
     "reflect-metadata": "^0.1.12",
     "rimraf": "^2.6.3",
     "rxjs": "^6.3.3",
-    "typeorm": "^0.2.27",
+    "typeorm": "^0.3.12",
     "snyk": "^1.431.1"
   },
   "devDependencies": {
